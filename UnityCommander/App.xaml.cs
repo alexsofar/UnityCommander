@@ -13,5 +13,6 @@ namespace UnityCommander
     /// </summary>
     public partial class App : Application
     {
+        Byte dd = 3;
     }
 }
