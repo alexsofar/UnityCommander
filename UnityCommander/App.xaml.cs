@@ -19,5 +19,7 @@ namespace UnityCommander
 
         sbyte c = -100;
 
-        Console    }
+        double r = 3.141d;
+
+    }
 }
