@@ -13,6 +13,7 @@ namespace UnityCommander
     /// </summary>
     public partial class App : Application
     {
-        Byte dd = 3;
+        Byte a = 36;
+        String b = "Hellow world!!!";
     }
 }
