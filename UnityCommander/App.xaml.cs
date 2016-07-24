@@ -15,5 +15,7 @@ namespace UnityCommander
     {
         Byte a = 36;
         String b = "Hellow world!!!1324234";
+        sbyte c = -100;
+
     }
 }
