@@ -13,9 +13,6 @@ namespace UnityCommander
     /// </summary>
     public partial class App : Application
     {
-        Byte a = 36;
-        String b = "Hellow world!!!1324234";
-        sbyte c = -100;
-
+        String b = "This is BOT";
     }
 }
